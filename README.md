@@ -14,9 +14,9 @@ The AI understands your request and finds the perfect movies for you!
 🎯 Super Simple Setup (5 Minutes!)
 
 Step 1: Get the Code
-bash# 
-Download this project to your computer
-git clone <your-project-url>
+bash# \
+Download this project to your computer \
+git clone https://github.com/oshankpiplani/Movie-Recommendation.git
 cd movie-recommender-backend
 
 
