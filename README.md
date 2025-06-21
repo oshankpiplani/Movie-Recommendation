@@ -7,7 +7,7 @@ Instead of browsing through endless movie lists, just tell our AI what kind of m
 
 "I want a funny romantic comedy" \
 "Show me scary movies with ghosts" \
-"Action movie with explosions" \
+"Action movie with explosions" 
 
 The AI understands your request and finds the perfect movies for you!
 
@@ -31,7 +31,7 @@ You need a place to store movies. We use Supabase (it's free!):
 
 Go to supabase.com and create a free account \
 Create a new project \
-Copy your project URL and API key \
+Copy your project URL and API key 
 
 Step 4: Tell the App About Your Database \
 Create a file called .env and add your database info: \
