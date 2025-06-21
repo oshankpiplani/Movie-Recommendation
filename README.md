@@ -5,9 +5,9 @@ An AI-powered movie recommendation system that understands what you're looking f
 What Does This Do? \
 Instead of browsing through endless movie lists, just tell our AI what kind of movie you want:
 
-"I want a funny romantic comedy"
-"Show me scary movies with ghosts"
-"Action movie with explosions"
+"I want a funny romantic comedy" \
+"Show me scary movies with ghosts" \
+"Action movie with explosions" \
 
 The AI understands your request and finds the perfect movies for you!
 
@@ -40,5 +40,6 @@ SUPABASE_KEY=your_supabase_key_here
 
 
 Step 5: Run the App! \
-bashpython app.py \
+bash# \
+python app.py \
 🎉 That's it! Your movie AI is now running at http://localhost:5000
